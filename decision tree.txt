@@ -1,0 +1,24 @@
+Root Node(HST)
+|
+|---low[53H,87A]-----AST----low[39H,36A]----AY----low[32H,27A]---H
+|                     |                      |---medium[5H,9A]---A
+|                     |                      |-----high[2H,0A]---H
+|                     |
+|                     |-----medium[14H,46A]--AF--low[1H,18A]-----A
+|                     |                      |--medium[13H,25A]--A
+|                     |                      |--high[0H,3A]------A
+|                     |
+|                     |-----high[0H,5A]--------------------------A
+|
+|
+|---high[103H,12A]---HY-----low[91H,6A]----AC-----low[53H,5A]----H
+|                    |                     |-----medium[34H,1A]--H
+|                    |                     |-----high[4H,0A]-----H
+|                    |
+|                    |----medium[11H,4A]---HF-----low[1H,0A]-----H
+|                    |                     |-----medium[9H,1A]---H
+|                    |                     |-----high[1H,3A]-----A
+|                    |
+|                    |-------high[1H,2A]---AY-----low[1H,0A]-----H
+|                                          |-----medium[0H,2A]---A
+|                                          |-----high[0H,0A]-----
